@@ -5,4 +5,6 @@ Data for the Leptoquark research project, which corresponds to the paper: "On in
 
 ---> Data_v2: Data from second version. Corresponds to the data of the submitted version
 
+---> Best_v2: Best fit points from the second version. Corresponds to the data of the submitted version 
+
 For additional information, feel free to contact me (jpedropino@ua.pt or johnppg5@gmail.com)
