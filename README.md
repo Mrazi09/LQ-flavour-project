@@ -1,5 +1,5 @@
 # Leptoquark-project---Data
-Data for the Leptoquark research project, which corresponds to the paper: "On interplay between flavour anomalies and neutrino properties" by myself and collaborators. arXiv:2206.01674 
+Data for the Leptoquark research project, which corresponds to the paper: "On interplay between flavour anomalies and neutrino properties" by myself and collaborators (Felipe F. Freitas, António Morais, Werner Porod and Roman Pasechnik). arXiv:2206.01674 
 
 ---> Data: Data from first version
 
