@@ -13,7 +13,7 @@ Data for the Leptoquark research project, which corresponds to the paper: "On in
 
 ---> Some companion jupyter notebooks for the inversion of the neutrino mass matrix such that the PMNS and neutrino mass differences are inputs (Neutrino_inversion.ipynb) as well as additional codes for how to determine the PMNS and neutrino masses from available data files (Read_neutrino_v2.ipynb and Read_neutrino_v3.ipynb)
 
----> ```flavio```, in its current version, does not calculate the CP angle $\phi_s$ due to new physics contributions to $B_s - \overline{B}_s$ mixing. However, all the ingredients are there and it is not difficult to add the observable. To this end, one must replace ```observables.py``` located in ```flavio/physics/mesonmixing``` with the one on this repo. The new functions are marked with the comment ```#Joao```   
+---> ```flavio```, in its current version, does not calculate the CP angle $\phi_s$ due to new physics contributions in $B_s - \overline{B}_s$ mixing. However, all the ingredients are there and it is not difficult to add the observable. To this end, one must replace ```observables.py``` located in ```flavio/physics/mesonmixing``` with the one on this repo. The new functions are marked with the comment ```#Joao```   
 
 **Important note** Data from the first versions (Data folder) and second version (Data_v2 and Best_v2) are outdated. Should only be used for testing purposes and may be removed from the repo in the near future. The current data is Data_v3 and Best_v3 !!
     
