@@ -1,9 +1,12 @@
 #  LQ-flavour-project
 Auxiliar codes and data for the Leptoquark research project, which corresponds to the paper: "On interplay between flavour anomalies and neutrino properties" by myself and collaborators (Felipe F. Freitas, António Morais, Werner Porod and Roman Pasechnik). arXiv:2206.01674 
 
----> Data: Data from first version
 
----> Data_v2: Data from second version. Corresponds to the data of the submitted version
+
+
+%---> Data: Data from first version
+%
+%---> Data_v2: Data from second version. Corresponds to the data of the submitted version
 
 ---> Data_v3: Data from the third version. Corresponds to the data of the resubmitted version
 
